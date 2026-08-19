@@ -19,15 +19,6 @@ I'm currently looking to grow as a software developer and work on interesting pr
 - CSS
 - Tailwind CSS
 
-
-## Projects
-
-Here are some of the projects I've worked on:
-
-- **[Project Name]** — [Short description]
-- **[Project Name]** — [Short description]
-- **[Project Name]** — [Short description]
-
 ## Education
 
 **Technical University of Košice**  
