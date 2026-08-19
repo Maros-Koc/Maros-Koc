@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hi, I'm Maroš Kocúr
 
 I'm a recent **Informatics graduate from the Technical University of Košice** with hands-on experience in frontend development.
 
