@@ -6,17 +6,21 @@ During my Bachelor's studies, I worked as a **Frontend Developer** on a producti
 
 I'm currently looking to grow as a software developer and work on interesting projects where I can apply and expand my skills.
 
-## 💻 Technologies
+## Technologies
+
+**Languages**
+- JavaScript
+- TypeScript
+- C#
 
 **Frontend**
+- Angular
 - HTML
 - CSS
-- Tailwind
-- [Angular]
-- [TypeScript]
+- Tailwind CSS
 
 
-## 🚀 Projects
+## Projects
 
 Here are some of the projects I've worked on:
 
@@ -24,12 +28,12 @@ Here are some of the projects I've worked on:
 - **[Project Name]** — [Short description]
 - **[Project Name]** — [Short description]
 
-## 🎓 Education
+## Education
 
 **Technical University of Košice**  
 Master's Degree in Informatics — 2026
 
-## 💼 Experience
+## Experience
 
 **Part-time(project) Frontend Developer — [Blue Lemons s.r.o]**
 
