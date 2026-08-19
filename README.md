@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm [Your Name] 👋
 
-<!--
-**Maros-Koc/Maros-Koc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent **Informatics graduate from the Technical University of Košice** with hands-on experience in frontend development.
 
-Here are some ideas to get you started:
+During my Bachelor's studies, I worked as a **Frontend Developer** on a production website, collaborating with UI/UX designers and backend developers to build and implement the frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently looking to grow as a software developer and work on interesting projects where I can apply and expand my skills.
+
+## 💻 Technologies
+
+**Frontend**
+- HTML
+- CSS
+- Tailwind
+- [Angular]
+- [TypeScript]
+
+
+## 🚀 Projects
+
+Here are some of the projects I've worked on:
+
+- **[Project Name]** — [Short description]
+- **[Project Name]** — [Short description]
+- **[Project Name]** — [Short description]
+
+## 🎓 Education
+
+**Technical University of Košice**  
+Master's Degree in Informatics — 2026
+
+## 💼 Experience
+
+**Part-time(project) Frontend Developer — [Blue Lemons s.r.o]**
+
+Worked as part of a development team on a website project, collaborating with UI/UX designers and backend developers and implementing frontend functionality based on designs and requirements.
+
